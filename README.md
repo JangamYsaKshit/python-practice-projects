@@ -52,7 +52,7 @@ More Python projects will be added as I progress from beginner-level programming
 * Advanced Python
 * Data Analysis
 * Data Science
-* Machine Learning
+* Machine Learning.
 
 ## Skills Demonstrated
 
