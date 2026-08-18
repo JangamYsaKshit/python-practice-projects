@@ -4,7 +4,7 @@ This repository contains Python projects I build as part of my journey to streng
 
 The projects are developed progressively, starting with beginner-level programs and gradually moving toward more advanced and real-world applications.
 
-## Project 01 — Personal Shopping List Manager..
+## Project 01 — Personal Shopping List Manager
 
 A simple console-based Python program that allows users to create and manage a personal shopping list.
 
@@ -60,4 +60,4 @@ More Python projects will be added as I progress from beginner-level programming
 
 ---
 
-This repository is part of my ongoing Python learning journey.
+This repository is part of my ongoing Python learning journey
