@@ -60,4 +60,4 @@ More Python projects will be added as I progress from beginner-level programming
 
 ---
 
-This repository is part of my ongoing Python learning journey
+This repository is part of my ongoing Python learning journey.
