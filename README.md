@@ -6,7 +6,7 @@ The projects are developed progressively, starting with beginner-level programs 
 
 ## Project 01 — Personal Shopping List Manager
 
-A simple console-based Python program that allows users to create and manage a personal shopping list..
+A simple console-based Python program that allows users to create and manage a personal shopping list.
 
 ### Features
 
