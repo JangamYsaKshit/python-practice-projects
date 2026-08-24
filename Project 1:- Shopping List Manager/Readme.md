@@ -4,7 +4,7 @@ A simple console-based Python application for creating and managing a personal s
 
 This project was built as part of my Python practice journey to strengthen programming fundamentals, problem-solving, and logical thinking.
 
-## Features..
+## Features
 
 * Add items to the shopping list
 * Prevent duplicate items
