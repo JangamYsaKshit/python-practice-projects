@@ -1,6 +1,6 @@
 # Python Practice Projects
 
-This repository contains Python projects I build as part of my journey to strengthen my Python programming and problem-solving skills....
+This repository contains Python projects I build as part of my journey to strengthen my Python programming and problem-solving skills.
 
 The projects are developed progressively, starting with beginner-level programs and gradually moving toward more advanced and real-world applications.
 
