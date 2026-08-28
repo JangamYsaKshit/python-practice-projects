@@ -1,4 +1,4 @@
-# To-Do List Managerrrt
+# To-Do List Manager
 
 A beginner-friendly Python console application that allows users to create and manage a list of tasks. This project uses Python lists to store active and completed tasks.
 
