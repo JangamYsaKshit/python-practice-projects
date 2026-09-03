@@ -2,7 +2,7 @@
 # Project Goal: Build a small console program that allows a user to create and manage their shopping list.
 
 # Empty list
-Shopping_List = []
+Shopping_List = []]
 
 # Menu
 while True:
