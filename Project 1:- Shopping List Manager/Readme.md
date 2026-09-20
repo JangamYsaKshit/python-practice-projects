@@ -1,4 +1,4 @@
-# Shopping List Manager
+# Shopping List Manager.
 
 A simple console-based Python application for creating and managing a personal shopping list.
 
