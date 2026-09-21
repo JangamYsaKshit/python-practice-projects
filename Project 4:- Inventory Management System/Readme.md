@@ -4,7 +4,7 @@ A console-based **Inventory Management System built with Python** for managing p
 
 ## Features
 
-* Add and manage products
+* Add and manage products.
 * View complete inventory
 * Search products by Product ID
 * Update product information
