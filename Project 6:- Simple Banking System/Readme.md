@@ -1,6 +1,6 @@
 # Simple Banking System
 
-A Python-based console application created as a practice project to strengthen programming logic, problem-solving skills, and Python fundamentals.
+A Python-based console application created as a practice project to strengthen programming logic, problem-solving skills, and Python fundamentals
 
 ## Features
 
