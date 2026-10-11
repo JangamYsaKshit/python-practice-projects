@@ -5,7 +5,7 @@
 
 # Start # 
 # DB Type:- Dict
-account_details = {
+account_details = {}
 
 
 # Main Menu
