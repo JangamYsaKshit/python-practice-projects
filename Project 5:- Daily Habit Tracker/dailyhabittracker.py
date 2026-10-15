@@ -4,7 +4,7 @@
 
 # Start #
 # DB Type: List
-habit = []
+habit = [
 
 # DB For Complete Habit Type: List
 completed_habits = []
