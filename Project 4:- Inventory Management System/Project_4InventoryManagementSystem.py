@@ -2,7 +2,7 @@
 # Project Goal: Develop a practical inventory management system using Python while strengthening core programming, problem-solving, and data management skills
 
 # Empty List 
-Inventory = [
+Inventory = []
 
 
 # ==================================================
