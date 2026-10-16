@@ -3,7 +3,7 @@
 
 
 # Empty Dist
-Student_Grades = {}
+Student_Grades = {
 
 # Menu
 while True:
