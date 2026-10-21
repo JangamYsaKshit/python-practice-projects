@@ -9,7 +9,7 @@ account_details = {}
 
 
 # Main Menu
-while :
+while True:
     print()
     print("===== BANKING SYSTEM =====")
     print("1. Create Account")
