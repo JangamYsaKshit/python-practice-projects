@@ -6,7 +6,7 @@
 Tasks = []
 
 # Empty list for Completed Task 
-Completed_Tasks = []
+Completed_Tasks = 
 
 while True:
     print()
