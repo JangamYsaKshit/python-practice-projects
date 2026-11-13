@@ -5,7 +5,7 @@
 # Manage products, customers, orders, inventory, and sales using Python.
 
 # 3 DB
-Products = 
+Products =  []
 Customers = []
 Orders = []
 
