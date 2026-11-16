@@ -16,7 +16,7 @@ while True:
     print()
 
     # User Input
-    user_menu = int(input("Enter A Number: "))
+    user_menu = (input("Enter A Number: "))
 
     # Add Item
     if user_menu == 1:
